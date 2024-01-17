@@ -5,7 +5,7 @@ A quantum delivery system, where an item that you purchase either in person, onl
 
 This should have public quantum chambers, at post offices around the world, for example, and also have home units for people who would like their items delivered directly to there homes (space permitting). The public units would need to be operated by an operator, and the receiver would need to bring some kind of QuantumID card to verify it's their purchase. The QuantumID card will use a unique identifier instead of personal information, thereby protecting the user's privacy. The user's unique id could be used to enter into websites, so that a purchase can be linked to their card directly, and no one else can turn up to a public quantum chamber and take their items. This wouldn't be necessary got home units, of course.
 
-I don't know how this would actually work, it's just an idea at the moment.
+I don't know how this would actually work, it's just an idea at the moment. It's probably impossible *right* now, but maybe in the future it might be possible.
 
 There could also be company units that companies buy and put at their stores, for example, kmart could buy heaps of them and have one or two at every store, then when someone buys something from kmart, they can choose to have it delivered straight to their home, if they had a home unit, or they could have it delivered to their nearest public unit if they choose to (if they where shopping away from home for example).
 
